@@ -1,5 +1,5 @@
 # Its TIme
- THIS IS MALWARE! DONT FRIKIN RUN THIS IF YOU DON'T KNOW WHAT YOU ARE DOING!
+ THIS IS MALWARE! DONT RUN THIS IF YOU DON'T KNOW WHAT YOU ARE DOING!
 
 This is a cool program I coded in my spare time. It is meant to annoy the user as much as possible with dead  memes and  l o u d.
 It has many payloads, doing many dumb things like rickrolling you, to just a shaky window.
@@ -13,5 +13,7 @@ Also, the reccomended specs is an i7, gtx1060, and whatever else you want.
 This was coded in vb.net
 The graphical payloads are transparent, so you can see windows like task manager show up, but you cant click them.
 Alt + F4 doesn't work.
-You can only shut PC down.
-This is my first program I post to github, so sorry if I do anything wrong.
+You can only shut down your pc.
+This is the first program I have ever posted to github, so sorry if I do anything wrong.
+
+PS. sorry about my unoptimised code.
